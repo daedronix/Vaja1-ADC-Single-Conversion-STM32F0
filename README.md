@@ -16,4 +16,4 @@
 <p> 10 bit, od 0 do 1024. </p>
 <p> 12 bit, od 0 do 4096. </p>
 <h4> Komentar: </h4>
-<p> 
+<p> Naloga je delovala kot so zahtevala navodila, nisem imel nobenih problemov </p>
