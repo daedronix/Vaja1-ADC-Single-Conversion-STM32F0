@@ -12,8 +12,8 @@
 <h4> Glede na potenciometer na vaši ploščici izberite-obkljukajte ustrezni kanal/pin. Na zaslonu se vam mora usterzno pobarvati izbrani pin v zeleno barvo. Kaj se izpiše poleg pina? </h4>
 <p> Poleg pina se izpiše ADC_IN10. </p>
 <h4> V Configuration kliknemo ADC gumb. V parameter settings izberite ločljivost pretvorbe na 8-bitno, torej je območje vrednosti od 0 do 255. Kakšne so še ostale možne ločljivosti pretvorbe in območja vrednosti?. </h4>
-<p> 8 bit, od 0 do 256. </p>
-<p> 10 bit, od 0 do 1024. </p>
-<p> 12 bit, od 0 do 4096. </p>
+<p> 8 bit, od 0 do 255. </p>
+<p> 10 bit, od 0 do 1023. </p>
+<p> 12 bit, od 0 do 4095. </p>
 <h4> Komentar: </h4>
 <p> Naloga je delovala kot so zahtevala navodila, nisem imel nobenih problemov </p>
